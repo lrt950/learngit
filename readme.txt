@@ -1,3 +1,3 @@
 Git is a vertion control system
 Git is free software distributed under the GPL
-fuke you
+be polite 
